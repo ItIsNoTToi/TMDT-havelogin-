@@ -1,0 +1,37 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using TMDT2.Areas.Identity.Data
+
+@inject SignInManager<SHOPUser> SignInManager
+@inject UserManager<SHOPUser> UserManager
+<html>
+    <head>
+		<link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+    </head>
+    <body>
+			<ul class="navbar-nav">
+			@if (SignInManager.IsSignedIn(User))
+			{
+				<li class="nav-item">
+					<a id="manage" class="nav-link text-light" style="display: block;" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">
+						<div style="text-align: center;">
+							Hello
+						</div>
+						<div id="name">
+							 @UserManager.GetUserName(User)
+						</div>
+					</a>
+				</li>
+			}
+			else
+			{
+				<li class="nav-item">
+					<a class="nav-link text-dark" id="login" asp-area="Identity" asp-page="/Account/Login">
+						<i class="fa-solid fa-user"></i>
+						<div>Login</div>
+					</a>
+				</li>
+			}
+			</ul>
+    </body>
+</html>
+

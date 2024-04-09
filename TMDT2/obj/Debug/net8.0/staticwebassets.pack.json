@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TMDT2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TMDT2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Audio\\Chillingmusic.mp3",
+      "PackagePath": "staticwebassets\\Audio\\Chillingmusic.mp3"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Audio\\ThingsYouSaid.mp3",
+      "PackagePath": "staticwebassets\\Audio\\ThingsYouSaid.mp3"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Audio\\matsuri.mp3",
+      "PackagePath": "staticwebassets\\Audio\\matsuri.mp3"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Banner\\Banner.jpg",
+      "PackagePath": "staticwebassets\\Image\\Banner\\Banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Favicon\\Favicon.jpg",
+      "PackagePath": "staticwebassets\\Image\\Favicon\\Favicon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Icon\\Main.jpg",
+      "PackagePath": "staticwebassets\\Image\\Icon\\Main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Icon\\all.jpg",
+      "PackagePath": "staticwebassets\\Image\\Icon\\all.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Icon\\cart.jpg",
+      "PackagePath": "staticwebassets\\Image\\Icon\\cart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Icon\\headphone.jpg",
+      "PackagePath": "staticwebassets\\Image\\Icon\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Icon\\headphone2.jpg",
+      "PackagePath": "staticwebassets\\Image\\Icon\\headphone2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Icon\\loa.jpg",
+      "PackagePath": "staticwebassets\\Image\\Icon\\loa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Icon\\phone.jpg",
+      "PackagePath": "staticwebassets\\Image\\Icon\\phone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Products\\loa-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\loa-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Products\\loa-2.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\loa-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Products\\loa-3.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\loa-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Products\\loa-4.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\loa-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Products\\loa-5.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\loa-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Products\\tainghe-1.jpg",
+      "PackagePath": "staticwebassets\\Image\\Products\\tainghe-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Thumbnail\\Chillthumbnail.jpg",
+      "PackagePath": "staticwebassets\\Image\\Thumbnail\\Chillthumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Thumbnail\\Coffee.jpg",
+      "PackagePath": "staticwebassets\\Image\\Thumbnail\\Coffee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Thumbnail\\Thumbnail.png",
+      "PackagePath": "staticwebassets\\Image\\Thumbnail\\Thumbnail.png"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Thumbnail\\Thumbnail2.png",
+      "PackagePath": "staticwebassets\\Image\\Thumbnail\\Thumbnail2.png"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Topic\\224x204_1.jpg",
+      "PackagePath": "staticwebassets\\Image\\Topic\\224x204_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Topic\\224x204_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\Topic\\224x204_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Topic\\Topic_2.jpg",
+      "PackagePath": "staticwebassets\\Image\\Topic\\Topic_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Topic\\Topic_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\Topic\\Topic_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Topic\\Topic_Sunset.jpg",
+      "PackagePath": "staticwebassets\\Image\\Topic\\Topic_Sunset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Topic\\Topic_chill.jpg",
+      "PackagePath": "staticwebassets\\Image\\Topic\\Topic_chill.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\Image\\Topic\\Topic_mountain.jpg",
+      "PackagePath": "staticwebassets\\Image\\Topic\\Topic_mountain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\css\\Footer.css",
+      "PackagePath": "staticwebassets\\css\\Footer.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\css\\Header.css",
+      "PackagePath": "staticwebassets\\css\\Header.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\css\\details.css",
+      "PackagePath": "staticwebassets\\css\\details.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\giang\\Downloads\\doanweb\\TMDT1\\TMDT2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TMDT2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TMDT2.props",
+      "PackagePath": "build\\TMDT2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TMDT2.props",
+      "PackagePath": "buildMultiTargeting\\TMDT2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TMDT2.props",
+      "PackagePath": "buildTransitive\\TMDT2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,158 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+    a:hover {
+        color: #bac34e;
+    }
+
+.footer-area{
+    width: 98%;
+    margin: 0px 1%;
+    background: linear-gradient(to left, #cbcee0, #e0e5f9, white);
+}
+.footer-top {
+    margin: 15px 0px 20px 0px;
+}
+
+.widget-form-area{
+    margin: 15px 0px 0px 30px;
+}
+
+.widget-form .input-field {
+    border: none;
+    border-radius: 2px;
+}
+    .widget-form .input-field:hover {
+        background: #e0e5f9;
+    }
+.widget-form .button-wrap #mc-submit {
+    background: #bac34e;
+    border: none;
+}
+    .widget-form .button-wrap #mc-submit:hover {
+        background: #f3ff66;
+    }
+
+
+li {
+    list-style: none;
+    margin: 5px 0px;
+}
+h3{
+    margin: 10px 0px 0px 24px;
+}
+#icon-footer{
+    width: 30%;
+    height: 30%;
+    margin: 15px 35% 0px 35%;
+}
+#icon-footer img{
+    width: 100%;
+    height: 100%;
+}
+.short-desc{
+    text-align: left;
+    margin: 0px 0px 0px 30px;
+}
+.widget-contact-info ul li {
+    text-align: left;
+}
+.payment-method a img{
+    width: 300px;
+}
+.footer-bottom {
+    background: linear-gradient(to right, #cbcee0, #e0e5f9, white)
+}
+.copyright{
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    a {
+        text-decoration: none;
+        color: black;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+        a:hover {
+            color: #bac34e;
+        }
+
+    .footer-area {
+        width: 98%;
+        margin: 0px 1%;
+        background: linear-gradient(to left, #cbcee0, #e0e5f9, white);
+    }
+
+    .footer-top {
+        margin: 15px 0px 20px 0px;
+    }
+
+    .widget-form-area {
+        margin: 15px 0px 0px 0px;
+    }
+
+    .widget-form .input-field {
+        border: none;
+        border-radius: 2px;
+    }
+
+        .widget-form .input-field:hover {
+            background: #e0e5f9;
+        }
+
+    .widget-form .button-wrap #mc-submit {
+        background: #bac34e;
+        border: none;
+    }
+
+        .widget-form .button-wrap #mc-submit:hover {
+            background: #f3ff66;
+        }
+
+
+    li {
+        list-style: none;
+        margin: 5px 0px;
+    }
+
+    h3 {
+        margin: 10px 0px 0px 0px;
+    }
+
+    #icon-footer {
+        width: 10%;
+        height: 10%;
+        margin: 15px 45% 0px 45%;
+    }
+
+        #icon-footer img {
+            width: 100%;
+            height: 100%;
+        }
+
+    .short-desc {
+        text-align: center;
+        margin: 0px 0px 0px 0px;
+    }
+
+    .widget-contact-info ul li {
+        text-align: center;
+    }
+
+    .payment-method a img {
+        width: 0px;
+        display: none;
+    }
+
+    .footer-bottom {
+        background: linear-gradient(to right, #cbcee0, #e0e5f9, white)
+    }
+
+    .copyright {
+        text-align: center;
+    }
+}

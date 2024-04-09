@@ -1,0 +1,119 @@
+﻿<header id="header">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3 d-block">
+            <div class="container-fluid">
+                <div Id="block">
+                    <button class="navbar-toggler" style="background-color: white;" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                            aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div id="layoutdiv1" class="navbar-collapse collapse d-sm-inline-flex">
+                        <div class="navbar-nav">
+                            <div class="lienhe nav-tem">
+                                <!--<audio id="backgroundAudio" class="navbar-link" controls autoplay>
+                                    <source src="Audio/ThingsYouSaid.mp3" type="audio/mp3">
+                                    Your browser does not support the audio tag.
+                                </audio>-->
+                            </div>
+                            <div class="lienhe nav-tem">
+                                <a class="navbar-link" href="home/index">
+                                    <span>Market place</span>
+                                </a>
+                            </div>
+                            <div class="lienhe nav-tem">
+                                <a class="navbar-link" href="https://mail.google.com/mail/u/1/#inbox?compose=lqrsljclMPhlcJFJCkLhHMbtkpsclBNRTHSkdwFBdSsSSnsPBfQXRnQVcxBSQQHpqDdknDdfzzwqvQWbf" target="_blank">
+                                    <span>Help & FAQs</span>
+                                </a>
+                            </div>
+                            <div class="lienhe nav-tem">
+                                <a class="navbar-link " href="#">
+                                    <span><i class="fas fa-language"></i></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="layoutdiv2">
+                        <div id="layoutdiv21">
+                            <div id="layoutdiv3">
+                                SPEAKERHUB
+                            </div>
+                            <div id="layoutdiv4">
+                                <input id="input" type="search" placeholder="Search ..." />
+                                <button id="btnsearch"><i class="fa-solid fa-search"></i></button>
+                            </div>
+                        </div>
+                        <div class="navbar-collapse collapse d-sm-inline-flex" id="layoutdiv5">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="Whilelist" asp-action="Index">
+                                        <i class="fa-solid fa-heart"></i>
+                                        <span>
+                                            YOUR LIKES
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-light" asp-area="" asp-controller="Carts" asp-action="Index">
+                                        <i class="fa-solid fa-shopping-cart"></i>
+                                        <span>
+                                            CARTS
+                                        </span>
+                                    </a>
+                                </li>
+                                        
+                            </ul>
+					    </div>
+                        <div >
+						    <partial name="_LoginPartial" />
+                        </div>
+                    </div>
+                    <!--<a class="navbar-brand navbar-toggler-icon" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/image/Main.jpg"/></a>-->
+                    <div id="layoutdiv6" class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1 justify-content-around">
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">
+                                    <i class="fa-solid fa-house"></i>
+                                    <span>
+                                        Trang chủ
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Category" asp-action="SearchByCategory" asp-route-ip="">
+                                    <i class="fa-solid fa-volume-up"></i>
+                                    <span>
+                                        Loa
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Category" asp-action="SearchByCategory" asp-route-ip="">
+                                    <i class="fa-solid fa-headphones"></i>
+                                    <span>
+                                        Tai Nghe
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Category" asp-action="SearchByCategory" asp-route-ip="">
+                                    <i class="fa-solid fa-phone"></i>
+                                    <span>
+                                        Dien Thoai
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Category" asp-action="SearchByCategory" asp-route-ip="">
+                                    <i class="fa-solid fa-briefcase"></i>
+                                    <span>
+                                        Phu Kien Khac
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    
